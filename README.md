@@ -1,16 +1,39 @@
-## Hi there 👋
+ Olá! Eu sou Wanderson Silveira
 
-<!--
-**WANDERSONSILV/WANDERSONSILV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em formação, com foco em Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou iniciando minha jornada na programação e utilizando este espaço para compartilhar meus estudos, exercícios e projetos práticos.
+
+ 🚀 Tecnologias e ferramentas em aprendizado
+
+- 🐍 Python
+- 💻 Linguagem C
+- 🗄️ SQL e bancos de dados
+- 🔧 Git e GitHub
+- 🌐 HTML e CSS
+
+ 📚 Atualmente estudando
+
+- Lógica de programação e algoritmos
+- Fundamentos da linguagem Python
+- Estruturas condicionais e de repetição
+- Funções e estruturas de dados
+- Banco de dados
+
+ 🎯 Objetivos
+
+- Desenvolver projetos práticos.
+- Aprimorar minhas habilidades em Python.
+- Construir sistemas para resolver problemas reais.
+- Evoluir como desenvolvedor de software.
+
+ 📂 Meus projetos
+
+Em breve, compartilharei aqui meus projetos e minha evolução na programação.
+
+---
+
+**Obrigado pela visita!** 😃
+
